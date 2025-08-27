@@ -16,7 +16,7 @@ import CopyBlock from '../../blocks/about.copy.block'
 // Section scss
 import about from '../../../styles/sections/index/about.module.scss';
 
-import profilePhoto from '../../../public/img/profile-photo.jpeg'
+import profilePhoto from '../../../public/img/portrait.png'
 /**
  * Section: About
  * An overview of yourself.
