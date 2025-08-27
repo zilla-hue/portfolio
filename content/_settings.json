@@ -1,0 +1,15 @@
+{
+	"name": "Tek Dakwak",
+	"logo": "",
+	
+	"username": {
+		"github": "zilla-hue",
+		"medium": "@--andrewnelson"
+	},
+
+	"portfolio": { 
+		"forkthis": "Steal this theme! Its open-source 🥰",
+		"repo_html": "https://www.github.com/zilla-hue/portfolio",
+		"repo_api": "https://api.github.com/repos/zilla-hue/portfolio"
+	}
+}

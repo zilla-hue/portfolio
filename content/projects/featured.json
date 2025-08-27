@@ -1,0 +1,87 @@
+[
+	{
+		"project": "When Sinners Worship",
+		"url": "/",
+		"repo": "Private",
+		"descriptionTitle": "Event Landing Page",
+		"description": "with dynamic content management and responsive design for optimal viewing across all devices.",
+		"imageOptions": [
+			{ "key": "size", "value": "large" }
+		],
+		"images": [
+			{ "key": "wsw-mock", "hover": "right", "h": "800", "w": "1200", "url": "/img/Macbook_Air_Mockup_3 copy.jpg" },
+			{ "key": "wsw-mock", "hover": "left", "h": "800", "w": "1200", "url": "/img/Mockup copy.jpg" }
+		],
+		"stack": [
+			{ "key": "react", "name": "React", "type": "devicon" },
+			{ "key": "nextjs", "name": "Next.js", "type": "devicon" },
+			{ "key": "javascript", "name": "JavaScript", "type": "devicon" },
+			{ "key": "html5", "name": "HTML5", "type": "devicon" },
+			{ "key": "css3", "name": "CSS3", "type": "devicon" },
+			{ "key": "git", "name": "Git(Hub)", "type": "devicon" }
+		]
+	},
+	{
+		"project": "Work Collaboration App",
+		"url": "/",
+		"repo": "Private",
+		"descriptionTitle": "Slack-like collaboration platform",
+		"description": "with integrated core features for efficient team communication and project management.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "python", "name": "Python", "type": "devicon" },
+			{ "key": "csharp", "name": "C#", "type": "devicon" },
+			{ "key": "javascript", "name": "JavaScript", "type": "devicon" },
+			{ "key": "html5", "name": "HTML5", "type": "devicon" },
+			{ "key": "css3", "name": "CSS3", "type": "devicon" },
+			{ "key": "git", "name": "Git(Hub)", "type": "devicon" }
+		]
+	},
+	{
+		"project": "e86 Vibe",
+		"url": "/",
+		"repo": "Private",
+		"descriptionTitle": "Mobile app for e-book sales and distribution",
+		"description": "built with Flutter and Dart for cross-platform functionality and user-friendly interface.",
+		"imageOptions": [
+			{ "key": "size", "value": "large" }
+		],
+		"images": [
+			{ "key": "e86-vibe", "hover": "left", "h": "797", "w": "556", "url": "/img/e86-vibe-mock.png" }
+		],
+		"stack": [
+			{ "key": "flutter", "name": "Flutter", "type": "devicon" },
+			{ "key": "dart", "name": "Dart", "type": "devicon" },
+			{ "key": "firebase", "name": "Firebase", "type": "devicon" },
+			{ "key": "git", "name": "Git(Hub)", "type": "devicon" }
+		]
+	},
+	{
+		"project": "Asset Management Application",
+		"url": "/",
+		"repo": "Private",
+		"descriptionTitle": "Healthcare resource allocation system",
+		"description": "developed with ASP.NET and C# to improve healthcare resource management and data security.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "dotnet", "name": "ASP.NET", "type": "devicon" },
+			{ "key": "csharp", "name": "C#", "type": "devicon" },
+			{ "key": "mysql", "name": "MySQL", "type": "devicon" },
+			{ "key": "html5", "name": "HTML5", "type": "devicon" },
+			{ "key": "css3", "name": "CSS3", "type": "devicon" },
+			{ "key": "javascript", "name": "JavaScript", "type": "devicon" },
+			{ "key": "git", "name": "Git(Hub)", "type": "devicon" }
+		]
+	}
+]
