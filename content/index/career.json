@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "Credlanche (Fintech Startup)",
+    "date": "Jan 2023 – Present",
+    "responsibilities": [
+      "Designed and developed scalable fintech applications focused on credit and investment solutions.",
+      "Built responsive web interfaces using Next.js, TypeScript, and Tailwind CSS.",
+      "Developed and maintained APIs with Node.js and integrated secure payment workflows.",
+      "Enhanced performance of mobile apps built in Flutter, improving user engagement.",
+      "Collaborated with cross-functional teams to deliver features under strict compliance and security requirements."
+    ]
+  }
+]
